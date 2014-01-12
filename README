@@ -1,5 +1,6 @@
 SAMP-Addon by BJIADOKC
 
+Attention: Development temporarily suspended. Developer in the army.
 ====================
 
 Client-side game-loadable module that communicates with another TCP server (transfering data/game extensibility/etc).
